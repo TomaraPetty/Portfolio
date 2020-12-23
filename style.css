@@ -1,0 +1,107 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #233142;
+    background-image: url("images/grunge3.jpg");
+    width: auto;
+    height: 866px;
+}
+
+.computer {
+    max-width: 75%;
+    height: auto;
+    border-radius: 15px;
+    border-color: #9ad3bc;
+    border-style: none double double none;
+}
+nav {
+    height: 25px;
+    width: auto;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+.socials {
+    margin: 5px;
+    max-width: 20px;
+    height: auto;
+}
+.card-panel,
+footer {
+    opacity: .8;
+}
+h1 {
+    font-family: 'Righteous';
+    color: #e8e8e8;
+}
+.hollywood {
+    width: 100%;
+    height: auto;
+}
+#header,
+.about,
+.projects,
+.contact,
+.quiz {
+    background-color: #e8e8e8;
+    color: #233142;
+    padding: 15px;
+    border-style: none double double none;
+    border-color: #fc8621;
+    border-width: 5px;
+    border-radius: 10px;
+}
+.contact {
+    border-color: #9ad3bc;
+    border-style: none double double none;
+}
+.headers {
+    font-family: 'Montserrat', sans-serif;
+}
+#header {
+    margin-left: 10%;
+    max-width: 25%;
+    height: auto;
+    background-color: #e8e8e8;
+    padding: 15px;
+    border-style: none double double none;
+    border-color: #9ad3bc;
+    border-width: 5px;
+    border-radius: 15px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #logo {
+    max-width: 25%;
+    height: auto;
+  }
+  #background {
+      max-width: 75%;
+      height: auto;
+  }
+  #profile {
+      max-width: 55%;
+      height: auto;
+      border-radius: 15px;
+      border-color: #9ad3bc;
+      border-style: none double double none;
+
+  }
+
+  #social-div {
+      margin-top: 10%;
+      margin-bottom: 5%;
+  }
+  
+
+  
