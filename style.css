@@ -1,9 +1,18 @@
+/* OPACITY ISSUE 
+BACKGROUND IMAGE STAYS IN PLACE BUT CONTENT SCROLLS OVER THE TOP OF IT
+COULDING GET THE LESS GLITCHY TEXT TO WORK 
+About image stick to bottom. */
+
 body {
     font-family: 'Raleway', sans-serif;
     color: #233142;
     background-image: url("images/grunge3.jpg");
     width: auto;
     height: 866px;
+}
+nav {
+    height: 25px;
+    width: auto;
 }
 
 .computer {
@@ -13,25 +22,7 @@ body {
     border-color: #9ad3bc;
     border-style: none double double none;
 }
-nav {
-    height: 25px;
-    width: auto;
-}
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-.socials {
-    margin: 5px;
-    max-width: 20px;
-    height: auto;
-}
 .card-panel,
 footer {
     opacity: .8;
@@ -106,5 +97,10 @@ h4 {
       margin-bottom: 5%;
   }
   
+  .socials {
+    margin: 5px;
+    max-width: 20px;
+    height: auto;
+}
 
   
