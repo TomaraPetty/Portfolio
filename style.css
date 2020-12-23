@@ -28,6 +28,7 @@ footer {
     opacity: .8;
 }
 h1 {
+    font-size: 80px;
     font-weight: bold;
     font-family: 'Righteous';
     color: #e8e8e8;
@@ -43,8 +44,9 @@ h4 {
 .about,
 .projects,
 .contact,
-.quiz {
-    background-color: #e8e8e8;
+.quiz,
+.planner {
+    background-color: #f6f6f6;
     color: #233142;
     padding: 15px;
     border-style: none double double none;
@@ -63,7 +65,7 @@ h4 {
     margin-left: 10%;
     max-width: 25%;
     height: auto;
-    background-color: #e8e8e8;
+    background-color: #f6f6f6;
     padding: 15px;
     border-style: none double double none;
     border-color: #9ad3bc;
