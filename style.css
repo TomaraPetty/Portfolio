@@ -37,8 +37,12 @@ footer {
     opacity: .8;
 }
 h1 {
+    font-weight: bold;
     font-family: 'Righteous';
     color: #e8e8e8;
+}
+h4 {
+    font-weight: bolder;
 }
 .hollywood {
     width: 100%;
@@ -95,7 +99,6 @@ h1 {
       border-radius: 15px;
       border-color: #9ad3bc;
       border-style: none double double none;
-
   }
 
   #social-div {
