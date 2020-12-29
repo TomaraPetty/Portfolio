@@ -30,5 +30,5 @@ Tomara Petty
     <li><a href="https://www.linkedin.com/in/tomara-petty/">LinkedIn: @tomara-petty</a></li>
     <li><a href="tel:+5622355773">562.235.5773</a></li>
 </ul>
-<img src="images/Tom1.JPG" alt="Tomara's profile images">
+<img src="images/Tom1.JPG" alt="Tomara's profile images" width="150">
 
