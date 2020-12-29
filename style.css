@@ -1,28 +1,33 @@
 /* OPACITY ISSUE 
 BACKGROUND IMAGE STAYS IN PLACE BUT CONTENT SCROLLS OVER THE TOP OF IT
 COULDING GET THE LESS GLITCHY TEXT TO WORK 
-About image stick to bottom. */
+About image stick to bottom. 
+MATERIALIZE TOAST AND PARALLEX */
 
 body {
     font-family: 'Raleway', sans-serif;
     color: #233142;
     background-image: url("images/grunge3.jpg");
     width: auto;
-    height: 866px;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 nav {
     height: 25px;
     width: auto;
 }
-
-.computer {
-    max-width: 75%;
-    height: auto;
-    border-radius: 15px;
-    border-color: #9ad3bc;
-    border-style: none double double none;
+#introBox {
+    position: absolute;
+    left: 50px;
+    top: 175px;
+    z-index: 5;
 }
-
+#intro {
+    font-size: 18px;
+}
 .card-panel,
 footer {
     opacity: .8;
@@ -40,13 +45,16 @@ h4 {
     width: 100%;
     height: auto;
 }
+#about {
+    margin-top: 80px;
+}
 #header,
 .about,
 .projects,
 .contact,
 .quiz,
 .planner {
-    background-color: #f6f6f6;
+    background-color: rgba(246, 246, 246, 0.8);
     color: #233142;
     padding: 15px;
     border-style: none double double none;
