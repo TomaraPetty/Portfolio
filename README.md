@@ -1,6 +1,6 @@
 # Portfolio
 
-Link to site: https://tomararuth.github.io/Portfolio/
+Link to site: https://tomarapetty.github.io/Portfolio/
 
 ## Overview
 This page is Tomara Petty's portfolio. It is an overview of her work and a place for potential clients and employers to view her work and learn more about her skill set. The page is made of three sections About Me, Projects and examples of work and Contact Me at the bottom. 
