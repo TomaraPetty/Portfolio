@@ -9,9 +9,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 nav {
     margin-top: 0px;
 }
+
 nav,
 footer {
     opacity: .8;
@@ -22,7 +24,9 @@ h1 {
     font-family: 'Righteous';
     color: #e8e8e8;
 }
-h4 {
+
+
+h4, h3 {
     font-weight: bolder;
 }
 .hollywood {
@@ -79,8 +83,8 @@ h4 {
       height: auto;
   }
   #profile {
-      max-width: 55%;
-      height: auto;
+      max-width: auto;
+      max-height: 350px;
       border-radius: 15px;
       border-color: #9ad3bc;
       border-style: none double double none;
