@@ -11,6 +11,10 @@ body {
     overflow-x: hidden;
 }
 
+.divider {
+    width: 90%;
+}
+
 nav {
     margin-top: 0px;
 }
