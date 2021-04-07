@@ -8,10 +8,23 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow-x: hidden;
 }
 
 nav {
     margin-top: 0px;
+}
+
+.box {
+    transform: translateX(400%);
+    transition: transform 0.4s ease;
+}
+
+.box:nth-of-type(even) {
+    transform: translateX(-400%);
+}
+.box.show {
+    transform: translateX(0);
 }
 
 nav,
