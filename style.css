@@ -52,6 +52,7 @@ h4, h3 {
 .contact {
     border-color: #9ad3bc;
     border-style: none double double none;
+    padding: 20px !important;
 }
 .headers {
     font-family: 'Montserrat', sans-serif;
