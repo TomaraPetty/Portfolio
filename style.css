@@ -11,6 +11,11 @@ body {
     overflow-x: hidden;
 }
 
+.bold {
+    font-weight: bolder;
+    font-size: 1.1rem;
+}
+
 .divider {
     width: 90%;
 }
